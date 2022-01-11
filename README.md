@@ -19,7 +19,7 @@ module load common/libs/hdf5/1.8.12/sequential/intel/13.1.3
 
 ## compilation
 ~~~
-h5cc-64 -std=c99 wieczorek.c -o out
+h5cc-64 -std=c99 file.c -o out
 ~~~
 
 ## view hdf5 files
